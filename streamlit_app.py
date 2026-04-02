@@ -495,10 +495,6 @@ with tab5:
 st.divider()
 st.markdown("""
 <div style='text-align:center;color:#aaa;font-size:11px'>
-LIFE Project M&E Dashboard  •  Agri-Impact Malawi  •  Egmont Trust  •
-Data source: LIFE Project – M&E Data Hub (Google Sheets)  •
-Auto-refreshes every 5 minutes
+LIFE Project M&E Dashboard  •  Agri-Impact Malawi  •  Egmont Trust
 </div>
 """, unsafe_allow_html=True)
-
-streamlit run streamlit_app.py
